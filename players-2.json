@@ -1,0 +1,374 @@
+[
+ {
+   "name": "Patrick Mahomes",
+   "msv": 963000
+ },
+ {
+   "name": "Travis Kelce",
+   "msv": 365000
+ },
+ {
+   "name": "Jalen Ramsey",
+   "msv": 214000
+ },
+ {
+   "name": "Davante Adams",
+   "msv": 443000
+ },
+ {
+   "name": "T.J. Watt",
+   "msv": 192000
+ },
+ {
+   "name": "Jonathan Taylor",
+   "msv": 176000
+ },
+ {
+   "name": "Cooper Kupp",
+   "msv": 585000
+ },
+ {
+   "name": "Aaron Rodgers",
+   "msv": 2210000
+ },
+ {
+   "name": "Aaron Donald",
+   "msv": 484000
+ },
+ {
+   "name": "Tom Brady",
+   "msv": 2870000
+ },
+ {
+   "name": "Deebo Samuel",
+   "msv": 559000
+ },
+ {
+   "name": "Justin Jefferson",
+   "msv": 224000
+ },
+ {
+   "name": "Micah Parsons",
+   "msv": 197000
+ },
+ {
+   "name": "Tyreek Hill",
+   "msv": 542000
+ },
+ {
+   "name": "Josh Allen",
+   "msv": 594000
+ },
+ {
+   "name": "Derrick Henry",
+   "msv": 560000
+ },
+ {
+   "name": "Myles Garrett",
+   "msv": 165000
+ },
+ {
+   "name": "Jalen Hurts",
+   "msv": 352000
+ },
+ {
+   "name": "Joey Bosa",
+   "msv": 80000
+ },
+ {
+   "name": "Matthew Stafford",
+   "msv": 656000
+ },
+ {
+   "name": "Jared Goff",
+   "msv": 200000
+ },
+ {
+   "name": "Stefon Diggs",
+   "msv": 271000
+ },
+ {
+   "name": "Nick Bosa",
+   "msv": 141000
+ },
+ {
+   "name": "Ja'Marr Chase",
+   "msv": 227000
+ },
+ {
+   "name": "George Kittle",
+   "msv": 151000
+ },
+ {
+   "name": "Joe Burrow",
+   "msv": 1330000
+ },
+ {
+   "name": "Justin Herbert",
+   "msv": 377000
+ },
+ {
+   "name": "DeAndre Hopkins",
+   "msv": 222000
+ },
+ {
+   "name": "Lamar Jackson",
+   "msv": 654000
+ },
+ {
+   "name": "Nick Chubb",
+   "msv": 161000
+ },
+ {
+   "name": "Dak Prescott",
+   "msv": 556000
+ },
+ {
+   "name": "Kyler Murray",
+   "msv": 530000
+ },
+ {
+   "name": "Mike Evans",
+   "msv": 147000
+ },
+ {
+   "name": "Jason Kelce",
+   "msv": 71000
+ },
+ {
+   "name": "Sauce Gardner",
+   "msv": 68000
+ },
+ {
+   "name": "A.J. Brown",
+   "msv": 201000
+ },
+ {
+   "name": "Christian McCaffrey",
+   "msv": 348000
+ },
+ {
+   "name": "Tua Tagovailoa",
+   "msv": 284000
+ },
+ {
+   "name": "Ceedee Lamb",
+   "msv": 196000
+ },
+ {
+   "name": "Saquon Barkley",
+   "msv": 285000
+ },
+ {
+   "name": "Jaire Alexander",
+   "msv": 77000
+ },
+ {
+   "name": "Jaylen Waddle",
+   "msv": 116000
+ },
+ {
+   "name": "Terry McLaurin",
+   "msv": 94000
+ },
+ {
+   "name": "Trevor Lawrence",
+   "msv": 464000
+ },
+ {
+   "name": "Kirk Cousins",
+   "msv": 248000
+ },
+ {
+   "name": "Russell Wilson",
+   "msv": 930000
+ },
+ {
+   "name": "Matt Ryan",
+   "msv": 285000
+ },
+ {
+   "name": "Mac Jones",
+   "msv": 641000
+ },
+ {
+   "name": "Justin Fields",
+   "msv": 393000
+ },
+ {
+   "name": "Derek Carr",
+   "msv": 342000
+ },
+ {
+   "name": "Khris Middleton",
+   "msv": 160000
+ },
+ {
+   "name": "Kyrie Irving",
+   "msv": 1230000
+ },
+ {
+   "name": "Rudy Gobert",
+   "msv": 197000
+ },
+ {
+   "name": "Donovan Mitchell",
+   "msv": 299000
+ },
+ {
+   "name": "Zach LaVine",
+   "msv": 301000
+ },
+ {
+   "name": "Brandon Ingram",
+   "msv": 151000
+ },
+ {
+   "name": "James Harden",
+   "msv": 856000
+ },
+ {
+   "name": "Pascal Siakam",
+   "msv": 86000
+ },
+ {
+   "name": "Jaylen Brown",
+   "msv": 354000
+ },
+ {
+   "name": "Zion Williamson",
+   "msv": 657000
+ },
+ {
+   "name": "Karl Anthony Towns",
+   "msv": 196000
+ },
+ {
+   "name": "DeMar DeRozan",
+   "msv": 363000
+ },
+ {
+   "name": "Bam Adebayo",
+   "msv": 171000
+ },
+ {
+   "name": "Anthony Davis",
+   "msv": 513000
+ },
+ {
+   "name": "Damian Lillard",
+   "msv": 515000
+ },
+ {
+   "name": "Trae Young",
+   "msv": 407000
+ },
+ {
+   "name": "Devin Booker",
+   "msv": 729000
+ },
+ {
+   "name": "Ja Morant",
+   "msv": 997000
+ },
+ {
+   "name": "Kawhi Leonard",
+   "msv": 332000
+ },
+ {
+   "name": "Jayson Tatum",
+   "msv": 746000
+ },
+ {
+   "name": "LeBron James",
+   "msv": 2180000
+ },
+ {
+   "name": "Joel Embiid",
+   "msv": 487000
+ },
+ {
+   "name": "Stephen Curry",
+   "msv": 922000
+ },
+ {
+   "name": "Kevin Durant",
+   "msv": 1190000
+ },
+ {
+   "name": "Luka Doncic",
+   "msv": 673000
+ },
+ {
+   "name": "Nikola Jokic",
+   "msv": 213000
+ },
+ {
+   "name": "Giannis Antetokounmpo",
+   "msv": 743000
+ },
+ {
+   "name": "Jimmy Butler",
+   "msv": 523000
+ },
+ {
+   "name": "Tiger Woods",
+   "msv": 1210000
+ },
+ {
+   "name": "Dustin Johnson",
+   "msv": 146000
+ },
+ {
+   "name": "Justin Thomas",
+   "msv": 194000
+ },
+ {
+   "name": "Jordan Spieth",
+   "msv": 304000
+ },
+ {
+   "name": "Lionel Messi",
+   "msv": 343000
+ },
+ {
+   "name": "Cristiano Ronaldo",
+   "msv": 1060000
+ },
+ {
+   "name": "Shohei Ohtani",
+   "msv": 316000
+ },
+ {
+   "name": "Aaron Judge",
+   "msv": 376000
+ },
+ {
+   "name": "Mike Trout",
+   "msv": 288000
+ },
+ {
+   "name": "Mookie Betts",
+   "msv": 166000
+ },
+ {
+   "name": "Manny Machado",
+   "msv": 91000
+ },
+ {
+   "name": "Nolan Arenado",
+   "msv": 74000
+ },
+ {
+   "name": "Paul Goldschmidt",
+   "msv": 59000
+ },
+ {
+   "name": "Yordan Alvarez",
+   "msv": 55000
+ },
+ {
+   "name": "Freddie Freeman",
+   "msv": 621000
+ }
+]
